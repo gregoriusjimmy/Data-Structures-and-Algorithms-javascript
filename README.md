@@ -1,6 +1,6 @@
 # Data Structures and Algorithms with Javascript
 
-### Algorithm Included
+### Algorithms Included
 
   - BinarySearch
   - BubbleSort
